@@ -7,7 +7,7 @@
 ---
 
 ### 🖥️ Active Projects
-* **[YAI Games](https://icefoxx0312.github.io/)** - A pure HTML5/JavaScript game repository built with a minimalist OLED black aesthetic. Completely ad-free and optimized for performance.
+* **[YAI Games](https://icefox0312.github.io/)** - A pure HTML5/JavaScript game repository built with a minimalist OLED black aesthetic. Completely ad-free and optimized for performance.
 * **Core Repository Hub** - Developing web-based interactive applications and tactical scripts.
 
 ### 🛠️ Tech Stack & Terminal Environment
