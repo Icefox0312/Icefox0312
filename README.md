@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="download.jpg" width="100" alt="Logo"><br>
+  <h1><b>REPOSITORY TERMINAL</b></h1>
+  <p align="center"><i>Web Development & Security Environment</i></p>
+</p>
 
-<!--
-**Icefox0312/Icefox0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🖥️ Active Projects
+* **[YAI Games](https://icefoxx0312.github.io/)** - A pure HTML5/JavaScript game repository built with a minimalist OLED black aesthetic. Completely ad-free and optimized for performance.
+* **Core Repository Hub** - Developing web-based interactive applications and tactical scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Terminal Environment
+```repo
+Language/Frameworks : HTML5, CSS3, Bootstrap 5, Vanilla JS, PHP
+Operating Systems   : Linux (Kali / Ubuntu), Windows
+Aesthetic           : Minimalist / High-Tech Sleeper
